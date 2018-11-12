@@ -1,0 +1,280 @@
+##### Bagging #####
+
+Tree depth = 1 Bag Size = 10 Train Accuracy = 75.16 %
+Tree depth = 1 Bag Size = 10 Dev Accuracy = 76.06 %
+Tree depth = 1 Bag Size = 10 Test Accuracy = 73.94 %
+Tree depth = 1 Bag Size = 20 Train Accuracy = 75.16 %
+Tree depth = 1 Bag Size = 20 Dev Accuracy = 76.06 %
+Tree depth = 1 Bag Size = 20 Test Accuracy = 73.94 %
+Tree depth = 1 Bag Size = 40 Train Accuracy = 75.16 %
+Tree depth = 1 Bag Size = 40 Dev Accuracy = 76.06 %
+Tree depth = 1 Bag Size = 40 Test Accuracy = 73.94 %
+Tree depth = 1 Bag Size = 60 Train Accuracy = 75.16 %
+Tree depth = 1 Bag Size = 60 Dev Accuracy = 76.06 %
+Tree depth = 1 Bag Size = 60 Test Accuracy = 73.94 %
+Tree depth = 1 Bag Size = 80 Train Accuracy = 75.16 %
+Tree depth = 1 Bag Size = 80 Dev Accuracy = 76.06 %
+Tree depth = 1 Bag Size = 80 Test Accuracy = 73.94 %
+Tree depth = 1 Bag Size = 100 Train Accuracy = 75.16 %
+Tree depth = 1 Bag Size = 100 Dev Accuracy = 76.06 %
+Tree depth = 1 Bag Size = 100 Test Accuracy = 73.94 %
+
+Tree depth = 2 Bag Size = 10 Train Accuracy = 78.37 %
+Tree depth = 2 Bag Size = 10 Dev Accuracy = 78.98 %
+Tree depth = 2 Bag Size = 10 Test Accuracy = 76.41 %
+Tree depth = 2 Bag Size = 20 Train Accuracy = 78.37 %
+Tree depth = 2 Bag Size = 20 Dev Accuracy = 78.98 %
+Tree depth = 2 Bag Size = 20 Test Accuracy = 76.41 %
+Tree depth = 2 Bag Size = 40 Train Accuracy = 78.37 %
+Tree depth = 2 Bag Size = 40 Dev Accuracy = 78.98 %
+Tree depth = 2 Bag Size = 40 Test Accuracy = 76.41 %
+Tree depth = 2 Bag Size = 60 Train Accuracy = 78.37 %
+Tree depth = 2 Bag Size = 60 Dev Accuracy = 78.98 %
+Tree depth = 2 Bag Size = 60 Test Accuracy = 76.41 %
+Tree depth = 2 Bag Size = 80 Train Accuracy = 78.37 %
+Tree depth = 2 Bag Size = 80 Dev Accuracy = 78.98 %
+Tree depth = 2 Bag Size = 80 Test Accuracy = 76.41 %
+Tree depth = 2 Bag Size = 100 Train Accuracy = 78.37 %
+Tree depth = 2 Bag Size = 100 Dev Accuracy = 78.98 %
+Tree depth = 2 Bag Size = 100 Test Accuracy = 76.41 %
+
+Tree depth = 3 Bag Size = 10 Train Accuracy = 80.51 %
+Tree depth = 3 Bag Size = 10 Dev Accuracy = 81.3 %
+Tree depth = 3 Bag Size = 10 Test Accuracy = 79.3 %
+Tree depth = 3 Bag Size = 20 Train Accuracy = 81.36 %
+Tree depth = 3 Bag Size = 20 Dev Accuracy = 82.1 %
+Tree depth = 3 Bag Size = 20 Test Accuracy = 79.91 %
+Tree depth = 3 Bag Size = 40 Train Accuracy = 80.52 %
+Tree depth = 3 Bag Size = 40 Dev Accuracy = 81.37 %
+Tree depth = 3 Bag Size = 40 Test Accuracy = 79.11 %
+Tree depth = 3 Bag Size = 60 Train Accuracy = 80.51 %
+Tree depth = 3 Bag Size = 60 Dev Accuracy = 81.37 %
+Tree depth = 3 Bag Size = 60 Test Accuracy = 79.07 %
+Tree depth = 3 Bag Size = 80 Train Accuracy = 81.34 %
+Tree depth = 3 Bag Size = 80 Dev Accuracy = 82.1 %
+Tree depth = 3 Bag Size = 80 Test Accuracy = 79.77 %
+Tree depth = 3 Bag Size = 100 Train Accuracy = 80.52 %
+Tree depth = 3 Bag Size = 100 Dev Accuracy = 81.37 %
+Tree depth = 3 Bag Size = 100 Test Accuracy = 79.11 %
+
+Tree depth = 5 Bag Size = 10 Train Accuracy = 82.35 %
+Tree depth = 5 Bag Size = 10 Dev Accuracy = 83.02 %
+Tree depth = 5 Bag Size = 10 Test Accuracy = 81.59 %
+Tree depth = 5 Bag Size = 20 Train Accuracy = 82.43 %
+Tree depth = 5 Bag Size = 20 Dev Accuracy = 83.09 %
+Tree depth = 5 Bag Size = 20 Test Accuracy = 81.96 %
+Tree depth = 5 Bag Size = 40 Train Accuracy = 82.4 %
+Tree depth = 5 Bag Size = 40 Dev Accuracy = 83.02 %
+Tree depth = 5 Bag Size = 40 Test Accuracy = 81.77 %
+Tree depth = 5 Bag Size = 60 Train Accuracy = 82.33 %
+Tree depth = 5 Bag Size = 60 Dev Accuracy = 82.82 %
+Tree depth = 5 Bag Size = 60 Test Accuracy = 81.68 %
+Tree depth = 5 Bag Size = 80 Train Accuracy = 82.39 %
+Tree depth = 5 Bag Size = 80 Dev Accuracy = 82.89 %
+Tree depth = 5 Bag Size = 80 Test Accuracy = 81.72 %
+Tree depth = 5 Bag Size = 100 Train Accuracy = 82.28 %
+Tree depth = 5 Bag Size = 100 Dev Accuracy = 82.82 %
+Tree depth = 5 Bag Size = 100 Test Accuracy = 81.68 %
+
+Tree depth = 10 Bag Size = 10 Train Accuracy = 85.58 %
+Tree depth = 10 Bag Size = 10 Dev Accuracy = 83.55 %
+Tree depth = 10 Bag Size = 10 Test Accuracy = 82.0 %
+Tree depth = 10 Bag Size = 20 Train Accuracy = 85.44 %
+Tree depth = 10 Bag Size = 20 Dev Accuracy = 84.08 %
+Tree depth = 10 Bag Size = 20 Test Accuracy = 82.1 %
+Tree depth = 10 Bag Size = 40 Train Accuracy = 85.65 %
+Tree depth = 10 Bag Size = 40 Dev Accuracy = 84.02 %
+Tree depth = 10 Bag Size = 40 Test Accuracy = 82.24 %
+Tree depth = 10 Bag Size = 60 Train Accuracy = 85.69 %
+Tree depth = 10 Bag Size = 60 Dev Accuracy = 83.89 %
+Tree depth = 10 Bag Size = 60 Test Accuracy = 82.1 %
+Tree depth = 10 Bag Size = 80 Train Accuracy = 85.77 %
+Tree depth = 10 Bag Size = 80 Dev Accuracy = 83.75 %
+Tree depth = 10 Bag Size = 80 Test Accuracy = 82.38 %
+Tree depth = 10 Bag Size = 100 Train Accuracy = 85.88 %
+Tree depth = 10 Bag Size = 100 Dev Accuracy = 83.82 %
+Tree depth = 10 Bag Size = 100 Test Accuracy = 82.38 %
+
+
+
+##### Boosting #####
+
+Tree depth = 1 Bag Size = 10 Train Accuracy = 81.28 %
+Tree depth = 1 Bag Size = 10 Dev Accuracy = 82.03 %
+Tree depth = 1 Bag Size = 10 Test Accuracy = 81.12 %
+Tree depth = 1 Bag Size = 20 Train Accuracy = 82.88 %
+Tree depth = 1 Bag Size = 20 Dev Accuracy = 82.82 %
+Tree depth = 1 Bag Size = 20 Test Accuracy = 82.47 %
+Tree depth = 1 Bag Size = 40 Train Accuracy = 83.44 %
+Tree depth = 1 Bag Size = 40 Dev Accuracy = 83.16 %
+Tree depth = 1 Bag Size = 40 Test Accuracy = 83.12 %
+Tree depth = 1 Bag Size = 60 Train Accuracy = 83.52 %
+Tree depth = 1 Bag Size = 60 Dev Accuracy = 83.42 %
+Tree depth = 1 Bag Size = 60 Test Accuracy = 83.22 %
+Tree depth = 1 Bag Size = 80 Train Accuracy = 83.55 %
+Tree depth = 1 Bag Size = 80 Dev Accuracy = 83.22 %
+Tree depth = 1 Bag Size = 80 Test Accuracy = 83.54 %
+Tree depth = 1 Bag Size = 100 Train Accuracy = 83.56 %
+Tree depth = 1 Bag Size = 100 Dev Accuracy = 83.69 %
+Tree depth = 1 Bag Size = 100 Test Accuracy = 83.54 %
+
+Tree depth = 2 Bag Size = 10 Train Accuracy = 82.98 %
+Tree depth = 2 Bag Size = 10 Dev Accuracy = 83.09 %
+Tree depth = 2 Bag Size = 10 Test Accuracy = 81.72 %
+Tree depth = 2 Bag Size = 20 Train Accuracy = 83.57 %
+Tree depth = 2 Bag Size = 20 Dev Accuracy = 83.36 %
+Tree depth = 2 Bag Size = 20 Test Accuracy = 82.7 %
+Tree depth = 2 Bag Size = 40 Train Accuracy = 83.88 %
+Tree depth = 2 Bag Size = 40 Dev Accuracy = 83.95 %
+Tree depth = 2 Bag Size = 40 Test Accuracy = 82.38 %
+Tree depth = 2 Bag Size = 60 Train Accuracy = 84.14 %
+Tree depth = 2 Bag Size = 60 Dev Accuracy = 84.02 %
+Tree depth = 2 Bag Size = 60 Test Accuracy = 83.12 %
+Tree depth = 2 Bag Size = 80 Train Accuracy = 84.19 %
+Tree depth = 2 Bag Size = 80 Dev Accuracy = 83.95 %
+Tree depth = 2 Bag Size = 80 Test Accuracy = 83.31 %
+Tree depth = 2 Bag Size = 100 Train Accuracy = 84.44 %
+Tree depth = 2 Bag Size = 100 Dev Accuracy = 83.82 %
+Tree depth = 2 Bag Size = 100 Test Accuracy = 82.89 %
+
+Tree depth = 3 Bag Size = 10 Train Accuracy = 83.25 %
+Tree depth = 3 Bag Size = 10 Dev Accuracy = 84.08 %
+Tree depth = 3 Bag Size = 10 Test Accuracy = 81.68 %
+Tree depth = 3 Bag Size = 20 Train Accuracy = 83.57 %
+Tree depth = 3 Bag Size = 20 Dev Accuracy = 83.36 %
+Tree depth = 3 Bag Size = 20 Test Accuracy = 82.1 %
+Tree depth = 3 Bag Size = 40 Train Accuracy = 84.28 %
+Tree depth = 3 Bag Size = 40 Dev Accuracy = 83.62 %
+Tree depth = 3 Bag Size = 40 Test Accuracy = 82.56 %
+Tree depth = 3 Bag Size = 60 Train Accuracy = 84.52 %
+Tree depth = 3 Bag Size = 60 Dev Accuracy = 83.22 %
+Tree depth = 3 Bag Size = 60 Test Accuracy = 83.12 %
+Tree depth = 3 Bag Size = 80 Train Accuracy = 84.84 %
+Tree depth = 3 Bag Size = 80 Dev Accuracy = 83.16 %
+Tree depth = 3 Bag Size = 80 Test Accuracy = 83.12 %
+Tree depth = 3 Bag Size = 100 Train Accuracy = 85.19 %
+Tree depth = 3 Bag Size = 100 Dev Accuracy = 83.36 %
+Tree depth = 3 Bag Size = 100 Test Accuracy = 83.5 %
+
+
+
+##### Bayesian Optimization for Bagging #####
+
+Best Training accuracy = 96.72 %
+Best Test accuracy = 80.84 %
+Best Hyperparameters: max_depth = 75 n_estimator = 100
+
+Candidate hyperparameter at each iteration:
+
+For iteration 1 max_depth = 100 n_estimator = 1
+For iteration 2 max_depth = 50 n_estimator = 1
+For iteration 3 max_depth = 1 n_estimator = 100
+For iteration 4 max_depth = 100 n_estimator = 100
+For iteration 5 max_depth = 100 n_estimator = 33
+For iteration 6 max_depth = 75 n_estimator = 100
+For iteration 7 max_depth = 35 n_estimator = 20
+For iteration 8 max_depth = 25 n_estimator = 1
+For iteration 9 max_depth = 77 n_estimator = 12
+For iteration 10 max_depth = 28 n_estimator = 100
+For iteration 11 max_depth = 10 n_estimator = 73
+For iteration 12 max_depth = 76 n_estimator = 76
+For iteration 13 max_depth = 55 n_estimator = 28
+For iteration 14 max_depth = 31 n_estimator = 81
+For iteration 15 max_depth = 90 n_estimator = 52
+For iteration 16 max_depth = 33 n_estimator = 38
+For iteration 17 max_depth = 91 n_estimator = 88
+For iteration 18 max_depth = 73 n_estimator = 1
+For iteration 19 max_depth = 85 n_estimator = 29
+For iteration 20 max_depth = 99 n_estimator = 17
+For iteration 21 max_depth = 45 n_estimator = 99
+For iteration 22 max_depth = 53 n_estimator = 73
+For iteration 23 max_depth = 73 n_estimator = 60
+For iteration 24 max_depth = 61 n_estimator = 14
+For iteration 25 max_depth = 99 n_estimator = 52
+For iteration 26 max_depth = 99 n_estimator = 86
+For iteration 27 max_depth = 61 n_estimator = 99
+For iteration 28 max_depth = 67 n_estimator = 87
+For iteration 29 max_depth = 46 n_estimator = 42
+For iteration 30 max_depth = 71 n_estimator = 26
+For iteration 31 max_depth = 22 n_estimator = 53
+For iteration 32 max_depth = 35 n_estimator = 92
+For iteration 33 max_depth = 40 n_estimator = 72
+For iteration 34 max_depth = 88 n_estimator = 99
+For iteration 35 max_depth = 26 n_estimator = 67
+For iteration 36 max_depth = 86 n_estimator = 66
+For iteration 37 max_depth = 90 n_estimator = 17
+For iteration 38 max_depth = 42 n_estimator = 28
+For iteration 39 max_depth = 26 n_estimator = 26
+For iteration 40 max_depth = 59 n_estimator = 46
+For iteration 41 max_depth = 65 n_estimator = 70
+For iteration 42 max_depth = 23 n_estimator = 90
+For iteration 43 max_depth = 48 n_estimator = 17
+For iteration 44 max_depth = 92 n_estimator = 41
+For iteration 45 max_depth = 18 n_estimator = 9
+For iteration 46 max_depth = 91 n_estimator = 77
+For iteration 47 max_depth = 80 n_estimator = 47
+For iteration 48 max_depth = 79 n_estimator = 90
+For iteration 49 max_depth = 58 n_estimator = 83
+For iteration 50 max_depth = 43 n_estimator = 82
+
+
+##### Bayesian Optimization for Boosting #####
+
+Best Training accuracy = 96.72 %
+Best Test accuracy = 79.25 %
+Best Hyperparameters: max_depth = 82 n_estimator = 91
+
+Candidate hyperparameter at each iteration:
+
+For iteration 1 max_depth = 41 n_estimator = 1
+For iteration 2 max_depth = 1 n_estimator = 100
+For iteration 3 max_depth = 100 n_estimator = 41
+For iteration 4 max_depth = 100 n_estimator = 1
+For iteration 5 max_depth = 17 n_estimator = 64
+For iteration 6 max_depth = 100 n_estimator = 100
+For iteration 7 max_depth = 100 n_estimator = 72
+For iteration 8 max_depth = 39 n_estimator = 42
+For iteration 9 max_depth = 26 n_estimator = 100
+For iteration 10 max_depth = 21 n_estimator = 1
+For iteration 11 max_depth = 69 n_estimator = 1
+For iteration 12 max_depth = 43 n_estimator = 67
+For iteration 13 max_depth = 1 n_estimator = 75
+For iteration 14 max_depth = 48 n_estimator = 20
+For iteration 15 max_depth = 63 n_estimator = 100
+For iteration 16 max_depth = 100 n_estimator = 19
+For iteration 17 max_depth = 70 n_estimator = 72
+For iteration 18 max_depth = 20 n_estimator = 83
+For iteration 19 max_depth = 18 n_estimator = 41
+For iteration 20 max_depth = 86 n_estimator = 56
+For iteration 21 max_depth = 83 n_estimator = 33
+For iteration 22 max_depth = 28 n_estimator = 24
+For iteration 23 max_depth = 55 n_estimator = 1
+For iteration 24 max_depth = 87 n_estimator = 5
+For iteration 25 max_depth = 61 n_estimator = 33
+For iteration 26 max_depth = 43 n_estimator = 100
+For iteration 27 max_depth = 100 n_estimator = 87
+For iteration 28 max_depth = 30 n_estimator = 56
+For iteration 29 max_depth = 52 n_estimator = 54
+For iteration 30 max_depth = 85 n_estimator = 100
+For iteration 31 max_depth = 87 n_estimator = 74
+For iteration 32 max_depth = 33 n_estimator = 80
+For iteration 33 max_depth = 11 n_estimator = 1
+For iteration 34 max_depth = 1 n_estimator = 52
+For iteration 35 max_depth = 29 n_estimator = 11
+For iteration 36 max_depth = 100 n_estimator = 56
+For iteration 37 max_depth = 62 n_estimator = 84
+For iteration 38 max_depth = 59 n_estimator = 13
+For iteration 39 max_depth = 13 n_estimator = 100
+For iteration 40 max_depth = 57 n_estimator = 69
+For iteration 41 max_depth = 88 n_estimator = 21
+For iteration 42 max_depth = 13 n_estimator = 53
+For iteration 43 max_depth = 49 n_estimator = 34
+For iteration 44 max_depth = 89 n_estimator = 45
+For iteration 45 max_depth = 18 n_estimator = 29
+For iteration 46 max_depth = 19 n_estimator = 16
+For iteration 47 max_depth = 9 n_estimator = 89
+For iteration 48 max_depth = 100 n_estimator = 9
+For iteration 49 max_depth = 74 n_estimator = 100
+For iteration 50 max_depth = 33 n_estimator = 91
+
+
