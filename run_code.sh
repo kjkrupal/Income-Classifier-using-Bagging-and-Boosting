@@ -1,5 +1,9 @@
 !#/bin/bash
 
-python bagboost.py
 pip install bayesian-optimization
+pip install sklearn
+pip install pandas
+pip install numpy
+pip install matplotlib
+python bagboost.py
 python bayes.py
